@@ -36,7 +36,7 @@ The dataset contains electricity consumption records collected from a steel manu
 - Day_of_week
 - Load_Type
 
-  The dataset contains both numerical and categorical variables, making it suitable for regression modeling after preprocessing.
+The dataset contains both numerical and categorical variables, making it suitable for regression modeling after preprocessing.
 
 ## 🛠 Environment Setup
 
@@ -195,6 +195,11 @@ This project demonstrates a complete machine learning workflow, starting from da
 - Model evaluation using several performance metrics
 - Cross-validation for reliable performance estimation
 - Selection of the best-performing model based on RMSE and R² score
+
+## ▶️ Execution Order
+
+1. Run **`week2_eda.ipynb`** first to perform EDA, feature engineering, and generate the engineered dataset.
+2. Run **`week2_baseline_models.ipynb`** next, as it uses the engineered dataset created in the first notebook.
 
 ## Repositry Structure:
 
