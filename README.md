@@ -164,7 +164,10 @@ The figure below compares the **Test RMSE** of all regression models. A lower RM
 
 The scatter plot below compares the predicted values with the actual energy consumption values for the best-performing model. Points closer to the red reference line indicate more accurate predictions.
 
-![Scatter Plot](images/scattered_plot.png)
+<h3>Scattered Plot</h3>
+<p align="center">
+  <img src="images/scattered_plot.png" width="650">
+</p>
 
 ## 🏆 Results
 
@@ -175,9 +178,9 @@ After comparing all regression models:
 - It achieved the highest R² score.
 - Cross-validation confirmed that the model generalized well on unseen data.
 
-<h3>Predicted vs Actual Values</h3>
+<h3>Results Table</h3>
 <p align="center">
-  <img src="images/predicted_vs_actual.png" width="650">
+  <img src="images/results_table.png" width="650">
 </p>
 
 ## ✅ Conclusion
@@ -210,7 +213,7 @@ Steel_Energy_Consumption_Modelling/
 │   ├── rmse_comparison.png
 │   ├── mean_rmse_comparison.png
 │   ├── results_table.png
-│   └── predicted_vs_actual.png
+│   └── scattered_plot.png
 │
 ├── week2_eda.ipynb
 ├── week2_baseline_models.ipynb
