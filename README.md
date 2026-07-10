@@ -3,8 +3,8 @@
 ## 📌 Project Overview
 
 This project focuses on predicting electricity energy consumption in a steel manufacturing industry using machine learning regression models. The project consists of two major parts:
-- **Part 1:** Exploratory Data Analysis (EDA) and Feature Engineering  - week2_eda.ipynb
-- **Part 2:** Regression Model Development and Evaluation - week2 baseline models.ipynb
+- **Part 1:** Exploratory Data Analysis (EDA) and Feature Engineering  - **week2_eda.ipynb**
+- **Part 2:** Regression Model Development and Evaluation - **week2 baseline models.ipynb**
   
 ## 🎯Objective
 
