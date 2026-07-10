@@ -1,4 +1,4 @@
-# Steel_Energy_Consumption_Modelling
+# Steel_Energy_Consumption_Modeling
 
 ## 📌 Project Overview
 
@@ -204,7 +204,7 @@ This project demonstrates a complete machine learning workflow, starting from da
 ## Repositry Structure:
 
 ```text
-Steel_Energy_Consumption_Modelling/
+Steel_Energy_Consumption_Modeling/
 │
 ├── data/
 │   ├── Steel_industry_data.csv
